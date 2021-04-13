@@ -1,0 +1,35 @@
+table {
+    
+    border: #F7CACA solid 1px ;
+    float: left;
+    font-size: xx-large;
+    background-color: #93A9D1;
+    text-align: center;
+    width: 45%;
+    border-radius: 2rem;
+    border-collapse: separate;
+    border-spacing: 0.5rem;
+    
+  }
+
+  td {
+    background-color: #F7CACA;
+    border-radius: 2rem;
+    line-height: 90px;
+    width: 500px;
+
+  }
+
+  #temp {
+    font-size: 3rem;
+    border-radius:2rem;
+
+  }
+ td:hover{
+   background-color: #93A9D1;
+   cursor: pointer;
+ }
+
+ body{
+     background: linear-gradient(#93A9D1,#F7CACA);
+ }
